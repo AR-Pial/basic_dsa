@@ -45,3 +45,5 @@ if __name__ == "__main__":
     while not pq.is_empty():
         print(pq.pop())
 
+    print("pq : ", pq)
+
