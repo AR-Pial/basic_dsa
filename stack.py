@@ -50,5 +50,5 @@ result = stack.search(searchItem)
 if result != -1:
     print(f"{searchItem} is in Index No.  : {result}")
 else:
-    print(f"{searchItem} not foundin the stack!")
+    print(f"{searchItem} not found in the stack!")
 
